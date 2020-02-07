@@ -1,0 +1,8 @@
+@Article{Palma2011,
+  title={omogeneous Middles vs. Heterogeneous Tails, and the End of the ‘Inverted-U’: Its All About the Share of the Rich},
+  author={Palma, J. G.},
+  year={2011},
+  journal={Development and Change},
+  volume={42(1), 87–153},
+  doi={10.1111/j.1467-7660.2011.01694.x},
+}
